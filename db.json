@@ -1,0 +1,48 @@
+[
+  {
+    "date": 1685802020282,
+    "receiver": [
+      {
+        "number": "1",
+        "water": 13,
+        "energy": 5,
+        "balance": 1011
+      },
+      {
+        "number": "1a",
+        "water": 3,
+        "energy": 51,
+        "balance": 801
+      },
+      {
+        "number": "2",
+        "water": 5,
+        "energy": 6,
+        "balance": 906567
+      }
+    ]
+  },
+  {
+    "date": 1690103020282,
+    "receiver": [
+      {
+        "number": "1",
+        "water": 113,
+        "energy": 55,
+        "balance": 10011
+      },
+      {
+        "number": "1a",
+        "water": 31,
+        "energy": 515,
+        "balance": -8011
+      },
+      {
+        "number": "2",
+        "water": 65,
+        "energy": 76,
+        "balance": 9065567
+      }
+    ]
+  }
+]

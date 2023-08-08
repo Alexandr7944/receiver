@@ -1,0 +1,5 @@
+.table-receiver {
+  display: flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
